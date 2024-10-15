@@ -3,10 +3,6 @@
 \*-----------------------------------*/
 
 
-/**
- * copyright 2022 @codewithsadee
- */
-
 
 
 
@@ -331,8 +327,11 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+  
   border-radius: 20px;
+}
+.dev1{
+  border-radius: 100px;
 }
 
 .info-content .name {
